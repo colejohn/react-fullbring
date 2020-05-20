@@ -1,0 +1,17 @@
+{
+  "name": "react-fullbring",
+  "version": "1.0.0",
+  "description": "Simple react graphql mongodb fullstack development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "graphql",
+    "mongodb",
+    "apollo"
+  ],
+  "author": "cole",
+  "license": "MIT"
+}
