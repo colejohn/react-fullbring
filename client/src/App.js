@@ -26,6 +26,7 @@ function App() {
 			<header className="App-header">
 				<img src={logo} className="App-logo" alt="logo" />
 				<p>React GraphQL MongoDB and Apollo Boilerplate</p>
+				
 				<a
 					className="App-link"
 					href="http://localhost:4000/playground"

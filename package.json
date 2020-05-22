@@ -4,7 +4,7 @@
 	"description": "Simple react graphql mongodb fullstack development",
 	"main": "index.js",
 	"scripts": {
-		"server": "nodemon --exec babel-node ./server/index.js",
+		"server": "nodemon --exec babel-node ./server/index.js -i ./client",
 		"client": "npm start --prefix client",
 		"start": "concurrently \"npm run client\" --kill-others-on-fail \"npm run server\""
 	},
